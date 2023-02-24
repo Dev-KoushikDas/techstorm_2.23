@@ -1552,6 +1552,19 @@ font-weight: 500;
   
   margin-left: 30px;
   margin-bottom: 32px;
+  position: relative;
+
+
+}
+.rules_link{
+width: 100%;
+height:100%;
+position: absolute;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+z-index: 1;
 }
 
 .image-faq {
@@ -5775,6 +5788,16 @@ img.mfp-img {
   /**
        * Remove all paddings around the image on small screen
        */
+       .rules_link{
+        width: 100%;
+        height:100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        z-index: 0;
+        }
     .image-2{
     width: 15vw;
     }
@@ -5835,6 +5858,16 @@ img.mfp-img {
   }
 }
 @media all and (max-width: 900px) {
+  .rules_link{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    }
   .image-2{
     width: 50vw;
     }
@@ -5935,6 +5968,16 @@ img.mfp-img {
 }
 
 @media only screen and (max-width: 1760px) {
+  .rules_link{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    }
   .image-2{
     width: 15vw;
     }
@@ -5943,6 +5986,16 @@ img.mfp-img {
   }
 }
 @media only screen and (max-width: 1600px) {
+  .rules_link{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    }
   .image-2{
     width: 15vw;
     }
@@ -5975,6 +6028,16 @@ img.mfp-img {
   }
 }
 @media only screen and (max-width: 1440px) {
+  .rules_link{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    }
   .image-2{
     width: 50vw;
     }
@@ -6080,6 +6143,16 @@ img.mfp-img {
   }
 }
 @media only screen and (max-width: 1200px) {
+  .rules_link{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    }
   .image-2{
     width: 50vw;
     }
@@ -6163,6 +6236,16 @@ img.mfp-img {
   }
 }
 @media only screen and (max-width: 991px) {
+  .rules_link{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    }
   .image-2{
     width: 50vw;
     }
@@ -6383,6 +6466,16 @@ img.mfp-img {
   }
 }
 @media only screen and (max-width: 767px) {
+  .rules_link{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    }
   .image-2{
     width: 50vw;
     }
@@ -6718,6 +6811,16 @@ img.mfp-img {
   }
 }
 @media only screen and (max-width: 600px) {
+  .rules_link{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    }
   .gallery-slider .swiper-slide .team-box {
     display: block;
   }
@@ -6791,6 +6894,16 @@ img.mfp-img {
   }
 }
 @media only screen and (max-width: 500px) {
+  .rules_link{
+    width: 100%;
+    height:100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    }
   .page-title .wrap-btn .tf-button,
 .page-title .wrap-btn .tf-button-st2 {
     display: inline-block;
