@@ -186,8 +186,40 @@ width: 15vw;
   height: 10%;
   width: 3.5%;
   margin: 1%;
+  
+  padding-top: 0.5%;
   display: flex;
   font-weight: 1000;
+}
+
+.header__logo__tertiary {
+ 
+  justify-content: space-between;
+  align-items: center;
+
+  height: 12%;
+  width: 12%;
+  margin: 1%;
+  display: flex;
+  font-weight: 1000;
+}
+
+.header__logo__tertiary_2 {
+ 
+  justify-content: space-between;
+  align-items: center;
+
+  height: 15%;
+  width: 15%;
+  margin: 1%;
+  display: flex;
+  font-weight: 1000;
+}
+
+
+.home_page_flex{
+display: flex;
+align-items: center;
 }
 
 .page-title .wrap-btn {
